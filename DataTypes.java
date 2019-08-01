@@ -3,12 +3,15 @@ package javaBasics;
 public class DataTypes {
 
 	public static void main(String[] args) {
-		
-		int a =40;
-		int b= 50;
-				int c = a+b;
-		
-		System.out.println("Addition is "+c);
+
+int i=10;
+int j=20;
+int k=j/i;
+System.out.println(k);
+
+String s="Java Practice";
+System.out.println(s);
+
 	}
 
 }
